@@ -1,0 +1,30 @@
+html {
+background-color: bisque;
+}
+p {
+    color: red;
+}
+ul li {
+    color:rgb(74, 128, 69);
+}
+header {
+    color:coral;
+}
+#footer {
+    color: cyan;
+}
+footer> ol {
+    color: fuchsia;
+}
+.wrapper {
+    color: blueviolet;
+}
+#box {
+    color: rgb(245, 8, 87);
+}
+footer> h5 {
+    color: brown;
+}
+p {
+    color: rgb(6, 252, 6);
+}
